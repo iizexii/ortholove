@@ -1,37 +1,38 @@
 @font-face {
 	font-family: "Geometria-Medium";
 	font-display: auto;
-	src: local("Geometria-Medium"), url("/fonts/Geometria-Medium/Geometria-Medium.eot") format("eot"),
-		url("/fonts/Geometria-Medium/Geometria-Medium.woff") format("woff"),
-		url("/fonts/Geometria-Medium/Geometria-Medium.ttf") format("truetype");
+	src: local("Geometria-Medium"), url("../fonts/Geometria-Medium/Geometria-Medium.eot") format("eot"),
+		url("../fonts/Geometria-Medium/Geometria-Medium.woff") format("woff"),
+		url("../fonts/Geometria-Medium/Geometria-Medium.ttf") format("truetype");
 }
 
 @font-face {
 	font-family: "Geometria-Light";
 	font-display: auto;
-	src: local("Geometria-Light"), url("/fonts/Geometria-Light/Geometria-Light.eot") format("eot"),
-		url("/fonts/Geometria-Light/Geometria-Light.woff") format("woff"),
-		url("/fonts/Geometria-Light/Geometria-Light.ttf") format("truetype");
+	src: local("Geometria-Light"), url("../fonts/Geometria-Light/Geometria-Light.eot") format("eot"),
+		url("../fonts/Geometria-Light/Geometria-Light.woff") format("woff"),
+		url("../fonts/Geometria-Light/Geometria-Light.ttf") format("truetype");
 }
 
 @font-face {
 	font-family: "Geometria-Bold";
 	font-display: auto;
-	src: local("Geometria-Bold"), url("/fonts/Geometria-Bold/Geometria-Bold.eot") format("eot"),
-		url("/fonts/Geometria-Bold/Geometria-Bold.woff") format("woff");
+	src: local("Geometria-Bold"), url("../fonts/Geometria-Bold/Geometria-Bold.eot") format("eot"),
+		url("../fonts/Geometria-Bold/Geometria-Bold.woff") format("woff");
 }
 
 @font-face {
 	font-family: "Geometria-ExtraBold";
 	font-display: auto;
-	src: local("Geometria-ExtraBold"), url("/fonts/Geometria-ExtraBold/Geometria-ExtraBold.eot") format("eot"),
-		url("/fonts/Geometria-ExtraBold/Geometria-ExtraBold.woff") format("woff"),
-		url("/fonts/Geometria-ExtraBold/Geometria-ExtraBold.ttf") format("truetype");
+	src: local("Geometria-ExtraBold"), url("../fonts/Geometria-ExtraBold/Geometria-ExtraBold.eot") format("eot"),
+		url("../fonts/Geometria-ExtraBold/Geometria-ExtraBold.woff") format("woff"),
+		url("../fonts/Geometria-ExtraBold/Geometria-ExtraBold.ttf") format("truetype");
 }
 
 @font-face {
 	font-family: "Geometria";
 	font-display: auto;
-	src: local("Geometria"), url("/fonts/Geometria/Geometria.eot") format("eot"),
-		url("/fonts/Geometria/Geometria.woff") format("woff"), url("/fonts/Geometria/Geometria.ttf") format("truetype");
+	src: local("Geometria"), url("../fonts/Geometria/Geometria.eot") format("eot"),
+		url("../fonts/Geometria/Geometria.woff") format("woff"),
+		url("../fonts/Geometria/Geometria.ttf") format("truetype");
 }
