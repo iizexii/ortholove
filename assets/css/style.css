@@ -829,14 +829,14 @@ h3 {
   right: 15px;
 }
 .ratings_overbox > .owl-nav > .owl-next {
-  background-image: url(img/logo/shape.svg) !important;
+  background-image: url(/img/logo/shape.svg) !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   right: 20px !important;
   top: 40% !important;
 }
 .ratings_overbox > .owl-nav > .owl-prev {
-  background-image: url(img/logo/shape_2.svg) !important;
+  background-image: url(/img/logo/shape_2.svg) !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   top: 40% !important;
